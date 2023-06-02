@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 0x07. Python - Test-driven development
 By Guillaume
 Weight: 1
@@ -373,3 +374,6 @@ Repo:
 GitHub repository: alx-higher_level_programming
 Directory: 0x07-python-test_driven_development
 File: tests/6-max_integer_test.py
+=======
+Python - Test-driven development
+>>>>>>> 48e0916cb9b981d85ea35d6b8b6193e4b548abd7
